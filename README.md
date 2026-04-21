@@ -80,6 +80,7 @@ Excel del cliente  →  config.py  →  panel admin + API REST + automaciones
 | [screenshots-bot](https://github.com/buguenocesar92/screenshots-bot) | 📸 Capturas multi-viewport + PDF de presentación para clientes |
 | [kraftdo-meme](https://github.com/buguenocesar92/kraftdo-meme) | 📱 Generador automático de posts RRSS con logo KraftDo |
 | [chile-tv](https://github.com/buguenocesar92/chile-tv) | 📺 Proxy para canales TV nacionales chilenos vía yt-dlp |
+| [kraftdo-security-scanner](https://github.com/buguenocesar92/kraftdo-security-scanner) | 🔒 Escanea repos con gitleaks y alerta por Telegram — cron diario + pre-push |
 | [kraftdo-base](https://github.com/buguenocesar92/kraftdo-base) | 🐳 Imagen Docker base para proyectos Laravel/PHP |
 
 ---
